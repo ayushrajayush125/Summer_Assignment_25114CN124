@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class Q5 {
+public class Q1 {
     public static void main(String[] args) {
         int n = 0;
 
-        System.out.println("Q5) Write a program to calculate sum of digits of a number.");
+        System.out.println("Q1) Write a program to calculate sum of digits of a number.");
         System.out.print("Enter N: ");
 
         Scanner sc = new Scanner(System.in);
