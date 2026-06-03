@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Q3 {
+public class Q2 {
     static boolean isPrime(int n) {
         int flg = 0;
         if (n < 2)
