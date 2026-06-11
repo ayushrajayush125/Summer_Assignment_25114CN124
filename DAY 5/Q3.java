@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main{
+public class Q3{
     public static void main(String[]args){
         System.out.println("Write a program to Print factors of a number.");
         Scanner sc=new Scanner(System.in);
